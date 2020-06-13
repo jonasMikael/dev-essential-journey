@@ -1,7 +1,7 @@
 # Dev Essential Journey
 A guide to active learning.
 
- > Esse projeto tem como objetivo ajudar novos desenvolvedores na sua jornada pelo mundo do desenvolvimento web.
+ > Esse projeto tem como objetivo ajudar novos desenvolvedores na sua jornada pelo mundo do desenvolvimento.
 
  > O projeto foi nasceu e está evoluindo buscando apresentar uma caminhada pratica com aprendizado ativo, assim fomentando no aluno flexibilidade, criatividade, proatividade, capacidade de resolver problemas, boa comunicação e outras características que o mercado busca em um profissional.
 
