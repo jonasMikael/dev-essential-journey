@@ -1,4 +1,4 @@
-# dev-essential-journey
+# Dev Essential Journey
 A guide to active learning.
 
  > Esse projeto tem como objetivo ajudar novos desenvolvedores na sua jornada pelo mundo do desenvolvimento web.
