@@ -1,8 +1,13 @@
 # Getting Started
 
-### Aqui você vai adquirir o conhecimento necessário para cursas as diversas trilas do desenvolvimento de software.
+> Aqui você vai receber a orientação necessária para conseguir iniciar os estudos que ajudaram a entender o que é o git, GitHub e markdow.
 
-Objetivos:
-1. PERGUNTAS:
-2. GIT:
-3. GITHUB:
+* Qual a importancia de aprender essas tecnologias?
+
+> ....
+
+* Material indicado:
+
+> ....
+
+* Exercício:
