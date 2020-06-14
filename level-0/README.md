@@ -1,13 +1,19 @@
 # Getting Started
 
-> Aqui você vai receber a orientação necessária para conseguir iniciar os estudos que ajudaram a entender o que é o git, GitHub e markdow.
+> Aqui você vai receber a orientação necessária para entender o que é o Git, GitHub e Markdown, conhecimento fundamental para sua jornada.
 
-* Qual a importancia de aprender essas tecnologias?
+Roteiro de estudos:
 
-> ....
+  * Qual a importancia de aprender essas tecnologias?
 
-* Material indicado:
+  > ....
 
-> ....
+  * Material indicado:
 
-* Exercício:
+  > ....
+
+Exercício:
+ > ...........
+
+ - [ ] ...
+ - [ ] ...
